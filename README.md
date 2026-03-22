@@ -1,5 +1,3 @@
-# cellphone-price-prediction
-
 #  Cellphone Price Prediction
 
 ##  Overview
@@ -9,12 +7,6 @@ This project predicts the price range of mobile phones based on features like RA
 ##  Problem Statement
 
 The goal is to help a mobile company estimate price categories (low, medium, high, very high) using machine learning.
-
-## Dataset
-
-```The dataset used in this project is available here:
-https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1000-ProtugeseBank.zip
-```
 
 ##  Dataset Features
 
@@ -31,6 +23,11 @@ https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1000-P
 * Feature Selection
 * Model Building (Logistic Regression, Random Forest, etc.)
 * Model Evaluation
+
+## Dataset
+
+The dataset used in this project is available here:
+https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1000-ProtugeseBank.zip
 
 ##  Results
 
